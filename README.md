@@ -1,2 +1,2 @@
-# arm2df
-Augmented Reality Mathematical 2D Functions
+# ARM2DF
+### Augmented Reality Mathematical 2D Functions
