@@ -64,7 +64,7 @@ The values assumed by the x start from 0 up to the number set in the resolution 
 * [LeanTouch](https://assetstore.unity.com/packages/tools/input-management/lean-touch-30111)
 
 ### Pictures
-<img src="https://github.com/MicheleMallia/arm2df/blob/master/logo/100.png" width="400" height="400" />
-<img src="https://github.com/MicheleMallia/arm2df/blob/master/logo/119.png" width="400" height="400" />
-<img src="https://github.com/MicheleMallia/arm2df/blob/master/logo/103.png" width="400" height="400" />
-<img src="https://github.com/MicheleMallia/arm2df/blob/master/logo/101.png" width="400" height="400" />
+<img src="https://github.com/MicheleMallia/arm2df/blob/master/logo/100.png" width="600" height="400" />
+<img src="https://github.com/MicheleMallia/arm2df/blob/master/logo/119.png" width="600" height="400" />
+<img src="https://github.com/MicheleMallia/arm2df/blob/master/logo/103.png" width="600" height="400" />
+<img src="https://github.com/MicheleMallia/arm2df/blob/master/logo/101.png" width="600" height="400" />
